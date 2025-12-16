@@ -114,8 +114,6 @@
 
 </div>
 
-> 💡 **Replace these placeholders** with your actual screenshots after running the app!
-
 ---
 
 ## 🚀 Quick Start
