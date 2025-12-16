@@ -383,18 +383,6 @@ sales-analysis/
 
 ---
 
-## 📄 License
-
-<div align="center">
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
-</div>
-
----
-
 ## 📧 Contact & Support
 
 <div align="center">
