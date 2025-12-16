@@ -450,7 +450,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 **If you find this project useful, please consider giving it a star!**
 
-[![Star](https://img.shields.io/github/stars/YOUR_USERNAME/sales-analysis?style=social)](https://github.com/tejaskotekar04/superstore-sales-analysis)
+[![Star](https://img.shields.io/github/stars/tejaskotekar04/Superstore-Sales-Analysis?style=social)](https://github.com/tejaskotekar04/Superstore-Sales-Analysis)
 
 ---
 
