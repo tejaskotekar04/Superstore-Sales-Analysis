@@ -9,7 +9,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**[Live Demo](#) • [Report Bug](https://github.com/tejaskotekar04/sales-analysis/issues) • [Request Feature](https://github.com/tejaskotekar04/sales-analysis/issues)**
+**[Live Demo](#) • [Report Bug](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues) • [Request Feature](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues)**
 
 ![Dashboard Preview](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Sales+Dashboard+Preview)
 
