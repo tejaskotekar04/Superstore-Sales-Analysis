@@ -110,7 +110,7 @@
 ![Product Analysis](screenshots/Product.png)
 
 #### Sales Trends
-![Sales Trends](screenshots/)
+![Sales Trends](screenshots/trends.png)
 
 </div>
 
