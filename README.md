@@ -253,8 +253,6 @@ sales-analysis/
 ┗ 📄 LICENSE                    # MIT License
 ```
 
-**Code Stats:** ~1,500 lines • 10 files • 30+ functions • Each page < 180 lines
-
 ---
 
 ## 🎨 Usage Guide
