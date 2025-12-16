@@ -11,8 +11,6 @@
 
 **[Live Demo](https://tejaskotekar04-superstore-sales-analysis-app-vmrspb.streamlit.app) • [Report Bug](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues) • [Request Feature](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues)**
 
-![Dashboard Preview](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Sales+Dashboard+Preview)
-
 *An interactive, multi-page web application for comprehensive sales analytics*
 
 </div>
