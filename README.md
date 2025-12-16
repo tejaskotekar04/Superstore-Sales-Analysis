@@ -137,7 +137,7 @@
 git clone https://github.com/YOUR_USERNAME/Superstore-Sales-Analysis.git
 cd Superstore-Sales-Analysis
 
-# 2️⃣ Install dependencies (Only 3!)
+# 2️⃣ Install dependencies (Only 2!)
 pip install streamlit pandas 
 
 # 3️⃣ Download dataset (see below ⬇️)
