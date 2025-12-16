@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 **[Live Demo](https://tejaskotekar04-superstore-sales-analysis-app-vmrspb.streamlit.app) • [Report Bug](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues) • [Request Feature](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues)**
 
