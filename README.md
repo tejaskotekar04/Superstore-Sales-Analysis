@@ -104,13 +104,13 @@
 <div align="center">
 
 #### Home Dashboard
-![Home Dashboard](https://via.placeholder.com/700x350/667EEA/FFFFFF?text=Home+Dashboard+%7C+KPIs+%26+Overview)
+![Home Dashboard](screenshots/Home.png)
 
 #### Product Analysis
-![Product Analysis](https://via.placeholder.com/700x350/48BB78/FFFFFF?text=Product+Analysis+%7C+Categories+%26+Performance)
+![Product Analysis](screenshots/Product.png)
 
 #### Sales Trends
-![Sales Trends](https://via.placeholder.com/700x350/F56565/FFFFFF?text=Sales+Trends+%7C+Time+Series+Analysis)
+![Sales Trends](screenshots/sales.png)
 
 </div>
 
