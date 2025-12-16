@@ -411,6 +411,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-kotekar-0302b6227/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaskotekar04@gmail.com)
 
+
 </div>
 
 ---
@@ -449,13 +450,13 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 **If you find this project useful, please consider giving it a star!**
 
-[![Star](https://img.shields.io/github/stars/YOUR_USERNAME/sales-analysis?style=social)](https://github.com/tejaskotekar04/sales-analysis)
+[![Star](https://img.shields.io/github/stars/YOUR_USERNAME/sales-analysis?style=social)](https://github.com/tejaskotekar04/superstore-sales-analysis)
 
 ---
 
 ### 🚀 Ready to analyze your data?
 
-**[Get Started Now](#-quick-start) • [View Documentation](DATA_SETUP.md) • [Report Issues](https://github.com/YOUR_USERNAME/sales-analysis/issues)**
+**[Get Started Now](#-quick-start) • [Report Issues](https://github.com/tejaskotekar04/sales-analysis/issues)**
 
 ---
 
