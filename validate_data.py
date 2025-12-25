@@ -30,6 +30,10 @@ def validate_data():
                 except:
                     # Last resort - ignore errors
                     df = pd.read_csv('data/superstore.csv', encoding='utf-8', errors='ignore')
+                    
+         # Convert date columns to datetime
+        df['Order Date'] = pd.to_datetime(df['Order Date'])
+        df['Ship Date'] = pd.to_datetime(df['Ship Date'])
         
         print("✅ superstore.csv loaded successfully!")
         print(f"   - Rows: {len(df):,}")
@@ -111,6 +115,16 @@ def validate_data():
     print("You can now run the app with: streamlit run app.py")
     print()
 
+    print("📊 SALES METRICS:")
+    print(f"   - Total Sales: ${df['Sales'].sum():,.2f}")
+    print(f"   - Total Profit: ${df['Profit'].sum():,.2f}")
+    print(f"   - Date Range: {df['Order Date'].min().year} - {df['Order Date'].max().year}")
+    print()
+
+    print("📍 GEOGRAPHIC:")
+    print(f"   - States: {df['State'].nunique()}")
+    print(f"   - Cities: {df['City'].nunique()}")
+    print(f"   - Regions: {df['Region'].nunique()}")
 
 if __name__ == "__main__":
     validate_data()
