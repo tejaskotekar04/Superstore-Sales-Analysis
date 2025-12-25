@@ -241,12 +241,12 @@ sales-analysis/
 ┃ ┣ 📄 regional_analysis.py  # Geographic trends 
 ┃ ┣ 📄 sales_trends.py       # Time analysis
 ┃ ┗ 📄 profitability_analysis.py  # Profit metrics 
-┣ 📄 app.py                     # Home dashboard 
+┣ 📄 app.py                     # Home dashboard
+┣ 📄 validate_data.py           # Data validation 
 ┣ 📄 analysis.py                # Analysis functions
 ┣ 📄 visualizations.py          # Chart functions 
-┣ 📄 .gitignore                 # Git ignore rules
 ┣ 📄 README.md                  # You are here! 📍
-┗ 📄 LICENSE                    # MIT License
+
 ```
 
 ---
