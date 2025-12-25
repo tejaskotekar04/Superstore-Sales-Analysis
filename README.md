@@ -144,12 +144,6 @@ streamlit run app.py
 
 ### 📥 Dataset Setup
 
-<div align="center">
-
-**⚠️ Important: CSV file not included in repository**
-
-</div>
-
 **Step-by-step:**
 
 1. 🔗 **Visit Kaggle**: [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
