@@ -424,11 +424,11 @@ sales-analysis/
 
 ### 🚀 Ready to analyze your data?
 
-**[Get Started Now](#-quick-start) • [Report Issues](https://github.com/tejaskotekar04/sales-analysis/issues)**
+**[Get Started Now](#-quick-start) • [Report Issues](https://github.com/tejaskotekar04/Superstore-Sales-Analysis/issues)**
 
 ---
 
-**Built with ❤️ by [Tejas Kotekar](https://github.com/tejaskotekar04)**
+**Built by [Tejas Kotekar](https://github.com/tejaskotekar04)**
 
 *Making data analysis accessible to everyone* 📊
 
