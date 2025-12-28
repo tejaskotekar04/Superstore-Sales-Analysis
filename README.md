@@ -422,14 +422,6 @@ sales-analysis/
 
 <div align="center">
 
-## ⭐ Show Your Support
-
-**If you find this project useful, please consider giving it a star!**
-
-[![Star](https://img.shields.io/github/stars/tejaskotekar04/Superstore-Sales-Analysis?style=social)](https://github.com/tejaskotekar04/Superstore-Sales-Analysis)
-
----
-
 ### 🚀 Ready to analyze your data?
 
 **[Get Started Now](#-quick-start) • [Report Issues](https://github.com/tejaskotekar04/sales-analysis/issues)**
